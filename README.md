@@ -40,55 +40,6 @@ The dashboard will be available at http://localhost:5173/ -->
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="styles.css">
-  <style>
-    body {
-  font-family: Arial, sans-serif;
-  line-height: 1.6;
-  background-color: #f4f4f4;
-  color: #333;
-  margin: 0;
-  padding: 0;
-}
-.container {
-  width: 80%;
-  margin: 20px auto;
-  background: #fff;
-  padding: 20px;
-  border-radius: 8px;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-}
-h1, h2 {
-  color: #333;
-}
-a {
-  color: #007BFF;
-  text-decoration: none;
-}
-a:hover {
-  text-decoration: underline;
-}
-ul {
-  list-style-type: disc;
-  padding-left: 20px;
-}
-pre {
-  background: #f4f4f4;
-  padding: 10px;
-  border-left: 4px solid #007BFF;
-  overflow-x: auto;
-}
-.image-gallery {
-  display: flex;
-  gap: 20px;
-  margin: 20px 0;
-}
-.image-gallery img {
-  width: 300px;
-  height: auto;
-  border-radius: 8px;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-}
-  </style>
 </head>
 <body>
   <div class="container">
