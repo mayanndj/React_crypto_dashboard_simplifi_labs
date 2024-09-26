@@ -39,7 +39,6 @@ The dashboard will be available at http://localhost:5173/ -->
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>React + Vite Dashboard</title>
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
