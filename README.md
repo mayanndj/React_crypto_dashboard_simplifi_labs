@@ -46,37 +46,30 @@ The dashboard will be available at http://localhost:5173/ -->
   <div class="container">
     <h1>React + Vite Dashboard</h1>
     <p>This template provides a minimal setup to get React working in Vite with Hot Module Replacement (HMR) and some ESLint rules.</p>
-
     <h2>Available Plugins</h2>
     <ul>
       <li><a href="https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md">@vitejs/plugin-react</a>: Uses <a href="https://babeljs.io/">Babel</a> for Fast Refresh.</li>
       <li><a href="https://github.com/vitejs/vite-plugin-react-swc">@vitejs/plugin-react-swc</a>: Uses <a href="https://swc.rs/">SWC</a> for Fast Refresh.</li>
     </ul>
-
     <h2>Getting Started with Create Vite@latest</h2>
     <p>This project was bootstrapped with <a href="https://github.com/facebook/create-react-app">Create React App</a>.</p>
-
     <h2>React JS Live Dashboard</h2>
     <p>This is an end-to-end project that uses <a href="https://apexcharts.com/react-chart-demos/">React-ApexCharts.js</a> for visualizing dynamic crypto market data. The data is fetched from the <a href="https://www.coingecko.com/en/api/documentation">Coingecko API</a>.</p>
-
     <h2>Prerequisites</h2>
     <ul>
       <li>Node.js (version 21.5.0)</li>
       <li>npm (comes with Node.js)</li>
       <li>A code editor (e.g., VSCode)</li>
     </ul>
-
     <div class="image-gallery">
       <img src="https://via.placeholder.com/300" alt="Image 1">
       <img src="https://via.placeholder.com/300" alt="Image 2">
       <img src="https://via.placeholder.com/300" alt="Image 3">
     </div>
-
     <h2>Installation</h2>
     <pre><code>npm install</code></pre>
     <p>or</p>
     <pre><code>npm i</code></pre>
-
     <h2>Running the Dashboard</h2>
     <pre><code>npm run dev</code></pre>
     <p>The dashboard will be available at <a href="http://localhost:5173">http://localhost:5173</a>.</p>
