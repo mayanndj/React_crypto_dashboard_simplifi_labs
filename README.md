@@ -62,9 +62,9 @@ The dashboard will be available at http://localhost:5173/ -->
       <li>A code editor (e.g., VSCode)</li>
     </ul>
     <div class="image-gallery">
-      <img src="https://via.placeholder.com/300" alt="Image 1">
-      <img src="https://via.placeholder.com/300" alt="Image 2">
-      <img src="https://via.placeholder.com/300" alt="Image 3">
+      <img src="/src/assets/p3.png" alt="Image 1">
+      <img src="/src/assets/p2.png" alt="Image 2">
+      <img src="/src/assets/p1.png" alt="Image 3">
     </div>
     <h2>Installation</h2>
     <pre><code>npm install</code></pre>
